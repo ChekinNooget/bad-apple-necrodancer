@@ -1,5 +1,8 @@
 # Bad Apple!! in Crypt of the NecroDancer
 
+<img width="1280" height="720" alt="bad apple thumbnail smaller" src="https://github.com/user-attachments/assets/061c1470-7e37-426c-bc6e-2740aa28e570" />
+
+
 [Bad Apple!! original video i think](https://www.youtube.com/watch?v=FtutLA63Cp8)
 
 [my video](https://www.youtube.com/watch?v=duxXGIAbWrY)
