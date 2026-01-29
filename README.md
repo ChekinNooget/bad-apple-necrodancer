@@ -2,7 +2,7 @@
 
 [Bad Apple!! original video i think](https://www.youtube.com/watch?v=FtutLA63Cp8)
 
-[my video](https://www.youtube.com/watch?v=haventuploadedityet)
+[my video](https://www.youtube.com/watch?v=duxXGIAbWrY)
 
 All the code I used to make Bad Apple!! in Crypt of the NecroDancer.
 
