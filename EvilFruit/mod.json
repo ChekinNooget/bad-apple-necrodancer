@@ -1,0 +1,20 @@
+{
+	"namespace": "EvilFruit",
+	"displayName": "Evil Fruit",
+	"version": "1.0.2",
+	"synchronyVersion": "4.2.1",
+	"description": "Adds fruit to the game.",
+	"author": "ChekinNooget",
+	"dependencies": {},
+	"api": {"scriptPath":"scripts"},
+	"icon": "EvilFruitIcon.png",
+	"banner": "EvilFruitBanner.png",
+	"tags": [],
+	"name": "EvilFruit_io_5739331",
+	"changelog": "",
+	"homepageURL": "https://mod.io/g/crypt/m/evilfruit",
+	"modioID": "5739331",
+	"modioUserID": 28499805,
+	"pendingVersion": "1.0.2",
+	"visibility": 0
+}
